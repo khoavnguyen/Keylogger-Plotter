@@ -4,7 +4,7 @@ Keylogger: written in C++ using Windows hook to listen to events.
 
 Plotter: Processing sketch, visualize data collected from keylogger.
 
-2006
+2010
 
 Version 1.19. Final version is lost.
 
